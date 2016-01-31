@@ -1,0 +1,15 @@
+{
+  "name" : "nodejs",
+  "version" : "0.1.0",
+  "main" : "server.js",
+  "scripts" : {
+    "start" : "node server.js"
+  },
+  "engines": {
+    "node": "0.8.15"
+ },
+"dependencies": {
+  "socket.io": "*",
+  "shortid": "*"
+  }
+}
