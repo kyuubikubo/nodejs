@@ -1,4 +1,4 @@
-var io 				= require('socket.io')(2558);
+var io 				= require('socket.io')(8080);
 var shortId 		= require('shortid');
 
 
